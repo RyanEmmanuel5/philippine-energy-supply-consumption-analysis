@@ -10,7 +10,7 @@ The dashboard presents interactive visualizations that allow users to examine an
 
 ## Dashboard Preview
 
-![Philippine Energy Dashboard](01%20-%20Dashboard%20Screenshot.png)
+![Philippine Energy Dashboard](./01%20-%20Dashboard%20Screenshot.png)
 
 ## Project Objectives
 
