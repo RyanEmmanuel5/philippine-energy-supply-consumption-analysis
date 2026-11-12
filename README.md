@@ -8,6 +8,10 @@ The Philippine Energy Supply and Consumption Analysis is a data visualization pr
 
 The dashboard presents interactive visualizations that allow users to examine annual energy consumption trends, compare consumption across sectors, and explore energy acquisition by source.
 
+## Dashboard Preview
+
+![Philippine Energy Dashboard](01%20-%20Dashboard%20Screenshot.png)
+
 ## Project Objectives
 
 - Analyze yearly energy consumption trends.
